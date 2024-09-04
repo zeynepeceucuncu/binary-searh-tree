@@ -1,0 +1,10 @@
+#binary searh tree
+*[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+Binary search supposed that all numbers were sorted.
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+root is 5;at the right of 5 there is 7 , at the left of 5 there is 2
+root is 7;at the right of 7 there is 8 , at the left of 7 there is 6
+root is 8;at the right of 8 there is 9 , at the left of 8 it is empty
+root is 2;at the right of 2 there is 4, at the left of 2 it is 1
+root is 4;at the right of 4 it is empty, at the left of 4 it is 3
+root is 1;at the right of 1 it is empty, at the left of 1 it is 0
